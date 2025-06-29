@@ -1,0 +1,19 @@
+{
+  "@@locale": "en",
+  "account": "Account",
+  "personalInfo": "Personal Info",
+  "passengersList": "Passengers List",
+  "paymentMethods": "Payment Methods",
+  "notification": "Notification",
+  "security": "Security",
+  "language": "Language",
+  "darkMode": "Dark Mode",
+  "helpCenter": "Help Center",
+  "privacyPolicy": "Privacy Policy",
+  "aboutRailify": "About Railify",
+  "logout": "Logout",
+  "general": "General",
+  "about": "About",
+  "myQRCode": "My QR Code",
+  "share": "Share"
+} 
